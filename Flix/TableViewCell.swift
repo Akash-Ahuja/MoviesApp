@@ -1,9 +1,3 @@
-//
-//  TableViewCell.swift
-//  Flix
-//
-//  Created by Md Islam on 2/13/21.
-//
 
 import UIKit
 
